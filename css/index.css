@@ -1,7 +1,8 @@
 .marq{
     color: rgb(255, 255, 255);
     font-size: large;
-    background-color: rgb(59, 59, 59);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 61%, rgba(33,157,182,1) 100%);
     padding: 15px;
 }
 
@@ -80,3 +81,16 @@
   text-decoration: none;
   cursor: pointer;
 }
+
+
+.aboutform{
+  margin-left: 68px;
+  font-size: 24;
+}
+
+.messsageform{
+  resize: both;
+  overflow: auto;
+}
+
+
