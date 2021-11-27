@@ -6,6 +6,10 @@
     padding: 15px;
 }
 
+.bgjob{
+  background: linear-gradient(90deg, rgba(152,15,193,1) 0%, rgba(98,15,193,1) 45%, rgba(84,121,213,1) 100%);
+}
+
 .toprec{
     color: rgb(255, 255, 255);
     font-size:20;
