@@ -6,16 +6,16 @@ var modal2 = document.getElementById("myModal2");
 
 
 
-// Get the button that opens the modal
+//button id with modal id
 var btn = document.getElementById("myBtn");
 var btn1 = document.getElementById("myBtn1");
 var btn2 = document.getElementById("myBtn2");
 
 
-// Get the <span> element that closes the modal
+//span to close 
 var span = document.getElementsByClassName("close")[0];
 
-// When the user clicks the button, open the modal 
+//event onclick
 btn.onclick = function() {
   modal.style.display = "block";
 }
